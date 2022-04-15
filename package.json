@@ -1,0 +1,24 @@
+{
+  "name": "build-branch-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasYan/build-branch-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonasYan/build-branch-cli/issues"
+  },
+  "homepage": "https://github.com/JonasYan/build-branch-cli#readme",
+  "dependencies": {
+    "commander": "^9.1.0",
+    "execa": "5.1.0",
+    "inquirer": "^8.2.2"
+  }
+}
